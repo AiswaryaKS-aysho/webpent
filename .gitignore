@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# scan reports (generated)
+*.json
+!requirements.json
+report-*
+demo*
+
+# misc
+nohup.out
+.DS_Store
